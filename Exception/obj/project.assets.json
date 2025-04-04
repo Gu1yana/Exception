@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Exception\\Exception\\Exception.csproj",
-      "projectName": "Exception",
-      "projectPath": "C:\\Users\\user\\Desktop\\Exception\\Exception\\Exception.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Exception\\Exception\\Exceptionn.csproj",
+      "projectName": "Exceptionn",
+      "projectPath": "C:\\Users\\user\\Desktop\\Exception\\Exception\\Exceptionn.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\Desktop\\Exception\\Exception\\obj\\",
       "projectStyle": "PackageReference",

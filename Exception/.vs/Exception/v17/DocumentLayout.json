@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Exception\\Exception\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exception.csproj|c:\\users\\user\\desktop\\exception\\exception\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exception.csproj|solutionrelative:meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exceptionn.csproj|c:\\users\\user\\desktop\\exception\\exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exceptionn.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exception.csproj|c:\\users\\user\\desktop\\exception\\exception\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exception.csproj|solutionrelative:meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exceptionn.csproj|c:\\users\\user\\desktop\\exception\\exception\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exceptionn.csproj|solutionrelative:meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exception.csproj|c:\\users\\user\\desktop\\exception\\exception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exception.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exceptionn.csproj|c:\\users\\user\\desktop\\exception\\exception\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exceptionn.csproj|solutionrelative:meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exceptionn.csproj|c:\\users\\user\\desktop\\exception\\exception\\wrongdateintervalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2CD591E-FBDF-4165-A5DC-155E687F2E80}|Exceptionn.csproj|solutionrelative:wrongdateintervalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "WrongDateIntervalException.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Exception\\Exception\\WrongDateIntervalException.cs",
+              "RelativeDocumentMoniker": "WrongDateIntervalException.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Exception\\Exception\\WrongDateIntervalException.cs",
+              "RelativeToolTip": "WrongDateIntervalException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:48:40.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MeetingSchedule.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Exception\\Exception\\MeetingSchedule.cs",
               "RelativeDocumentMoniker": "MeetingSchedule.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Exception\\Exception\\MeetingSchedule.cs",
               "RelativeToolTip": "MeetingSchedule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T22:58:27.159Z",
               "EditorCaption": ""
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Exception\\Exception\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Exception\\Exception\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T16:53:24.137Z",
               "EditorCaption": ""

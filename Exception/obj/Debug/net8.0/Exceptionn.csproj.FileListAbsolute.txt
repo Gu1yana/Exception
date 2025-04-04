@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Exception\Exception\bin\Debug\net8.0\Exceptionn.exe
+C:\Users\user\Desktop\Exception\Exception\bin\Debug\net8.0\Exceptionn.deps.json
+C:\Users\user\Desktop\Exception\Exception\bin\Debug\net8.0\Exceptionn.runtimeconfig.json
+C:\Users\user\Desktop\Exception\Exception\bin\Debug\net8.0\Exceptionn.dll
+C:\Users\user\Desktop\Exception\Exception\bin\Debug\net8.0\Exceptionn.pdb
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\Exceptionn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\Exceptionn.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\Exceptionn.AssemblyInfo.cs
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\Exceptionn.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\Exceptionn.sourcelink.json
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\Exceptionn.dll
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\refint\Exceptionn.dll
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\Exceptionn.pdb
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\Exceptionn.genruntimeconfig.cache
+C:\Users\user\Desktop\Exception\Exception\obj\Debug\net8.0\ref\Exceptionn.dll
